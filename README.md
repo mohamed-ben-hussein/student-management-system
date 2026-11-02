@@ -74,4 +74,4 @@ Completed as a practical JavaScript learning project. Further improvements may b
 
 ## Author
 
-Created by Harby on 11/2/2026
+Created by Harby on 2/11/2026
